@@ -1,1 +1,1 @@
-Hello World project of Mariana Dereniuk
+Hello World project of Mariana Dereniuk.
